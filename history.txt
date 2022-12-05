@@ -1,0 +1,130 @@
+   0 whoami
+   1 clear
+   2 whoami
+   3 cd
+   4 clear
+   5 whoami
+   6 cd
+   7 c
+   8 d
+   9 cd
+  10 clear
+  11 whoamii
+  12 cd
+  13 pwd
+  14 pdw
+  15 clear
+  16 whoami
+  17 cd
+  18 pwd
+  19 cd /root
+  20 cd / root
+  21 cd /
+  22 clear
+  23 whoami
+  24 cd
+  25 pwd
+  26 cd /
+  27 is
+  28 ls
+  29 cd /root
+  30 clear
+  31 whoami
+  32 cd
+  33 pwd
+  34 cd /
+  35 ls
+  36 cd /r
+  37 cd /run
+  38 cd /root
+  39 cd /home
+  40 cd /home/
+  41 pwd
+  42  cd
+  43 history
+  44 uptime
+  45 nkdir
+  46 nkdir --help
+  47 mkdir --help
+  48  cd /home
+  49 mkdir user1
+  50 ls
+  51 cd /user1
+  52 cd user1/
+  53 cs / user1
+  54 cd user1
+  55 cd home
+  56 cd home/
+  57 pwd
+  58 cd /home
+  59 cd user1
+  60 cd home
+  61 mkdir task1
+  62 ls
+  63 cd task1
+  64 cd /home
+  65 cd task1
+  66 cd user1
+  67 cd task 1
+  68 cd task1/
+  69 touch file1.txt
+  70 ls
+  71 cd 
+  72 cs task1
+  73 cd task1
+  74 cd task1/
+  75 cd /task1
+  76 cd home
+  77 cd /home
+  78 tree
+  79 cd /
+  80 tree
+  81 clear
+  82  ls
+  83 cd
+  84 ls
+  85 ls --help
+  86 -l
+  87 ls -l
+  88 -a
+  89 ls -a
+  90 mkdir /home/user2
+  91 cd user2
+  92 cd user2/
+  93 cd /home/user2
+  94 cd /
+  95 mkdir /home/user2/task2
+  96 touch /home/user2/task2/file2.txt
+  97 cd /home
+  98 tree
+  99 cd /
+ 100 tree /home
+ 101 mkdir --help
+ 102 mkdir -p /home/user3/task3
+ 103 tree /home/
+ 104 clear
+ 105 touch /home/user3/task3/file3.txt
+ 106 tree /home/
+ 107 mkdir /home/yegor /tmp/yegor /opt/yegor /home/user1/task1/yegor
+ 108 touch /home/yegor/yegor.txt /tmp/yegor/yegor.txt /opt/yegor/yegor.txt /home/user1/task1/yegor/yegor.txt
+ 109 clear
+ 110 tree /home
+ 111 mkdir /opt/task/user
+ 112 mkdir -p /opt/task/user && touch /opt/task/user/file.txt
+ 113 cp /home/user1/task1/file1.txt /opt/newfile.txt
+ 114 mv /home/user2/task2/file2.txt /opt/
+ 115 rename --help
+ 116 clear
+ 117 tree /home/
+ 118 cp /home/user1 /opt
+ 119 cp -r  /home/user1 /opt
+ 120 tree /opt/
+ 121 history
+ 122 clear
+ 123 remdir /opt/user1/
+ 124 rmdir /opt/user1/
+ 125 rm --help
+ 126 rm -rf /opt/user1/
+ 127 clear
+ 128 history
+ 129 history > history.txt
